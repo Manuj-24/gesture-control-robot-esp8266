@@ -39,3 +39,7 @@ Connections were verified through testing and debugging.
 - Basics of ESP8266 wireless communication
 - Hardware integration
 - Debugging real-time systems
+  
+## Demo
+
+![Gesture Controlled Robot](robo.jpg)
